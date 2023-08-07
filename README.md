@@ -65,7 +65,3 @@ You can adjust the following parameters in the `julia_set.py` file:
 - Feel free to explore different regions of the complex plane and experiment with various values of 'c' and iteration counts to observe the stunning patterns and details in these fractals.
 
 Enjoy exploring the fascinating world of fractals with this project!
-
----
-
-Feel free to modify this README to suit your specific project needs. You can also include any additional information, such as examples of interesting regions to explore or details about how the fractal generation algorithms work.
